@@ -1,5 +1,8 @@
-#library mvc sample 
+# Library - MVC sample
+MVC example in PHP
 
-#tools 
+## Tools
+MariaDB / PHP8 / CSS3
 
-maria/db / 
+## Author
+Arturo Mora-Rioja
